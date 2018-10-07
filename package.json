@@ -1,0 +1,26 @@
+{
+  "name": "liri-code-app",
+  "version": "1.0.0",
+  "description": "An information retrieval app that provides information about musicians and local concerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryBY1149/liri-code-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryBY1149/liri-code-app/issues"
+  },
+  "homepage": "https://github.com/HarryBY1149/liri-code-app#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  }
+}
