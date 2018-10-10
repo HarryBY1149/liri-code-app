@@ -6,9 +6,9 @@ exports.spotify = {
 }
 
 exports.bands = {
-    key: "64df49c226e09cc7c1a8189485ef035d",
+    key: process.env.bands,
 }
 
 exports.omdb = {
-    key: "bbc002e5",
+    key: process.env.omdb,
 }
